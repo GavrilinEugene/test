@@ -3,4 +3,7 @@ body {
 	font-family: Arial, Sans-Serif; /* Тип шрифта */
 	color: #333333; /* Цвет текста */
 	font-size: 11px; /* Размер текста в пикселях */
+	h1 {color: #0000ff; font-size:18px}
+	h2 {color: #ff00ff; font-size:16px}
+	p {color: #600000; font-size:14px}
 }
